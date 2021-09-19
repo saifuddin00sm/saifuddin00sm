@@ -4,7 +4,7 @@
 
 I made beautiful landing pages according to your needs with latest frontend technologies. My client's satisfaction is my first priority.
 
-Skills: REACT / JS / HTML / CSS / SASS / BOOTSTRAP 5
+Skills: REACT / REDUX / REACTSTRAP / REACT-ROUTER/ FIREBASE / JS / HTML / CSS / SASS / BOOTSTRAP 5 / TAILWIND-CSS
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning React.js and Advanced javaScript 
