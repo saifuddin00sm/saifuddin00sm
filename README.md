@@ -2,14 +2,14 @@
 #### I'm a professional Frontend Developer.
 ![I'm a professional Frontend Developer.](https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/175714478_2808102006117023_4148429671047368362_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEB9kMyHrYLWdTmSQgFN0xivLKXV_UULpm8spdX9RQumQknuwl53uO9UgFbMy0DpJ1VdQjrlfv37qipyPjgBCfb&_nc_ohc=LB-ckbRjKtYAX896amv&_nc_ht=scontent.fdac24-1.fna&oh=67e19b5049aabbbf51d95b3c8eacbac8&oe=614F08F4)
 
-I made beautiful landing pages according to your needs with latest frontend technologies. My client's satisfaction is my first priority.
+I am a frontend web developer who enjoys creating usable, maintainable, and scalable user interfaces for platforms on the web. Versatile, adaptable, and dependable. A self-taught developer who has 3 years of experience in JavaScript, specifically Reactjs. I'm always open to learning and taking on new skills and technologies.
 
-Skills: REACT / REDUX / REACTSTRAP / REACT-ROUTER/ FIREBASE / JS / HTML / CSS / SASS / BOOTSTRAP 5 / TAILWIND-CSS
+Skills: REACTjs / NEXTjs / REDUX / REACTSTRAP / REACT-ROUTER / MATERIAL-UI  / ANT-DESING / FIREBASE / JS / HTML / CSS / SASS / BOOTSTRAP 5 / TAILWIND-CSS
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning React.js and Advanced javaScript 
+- 🔭 I’m currently working on Fiverr and Upwork as Frontend developer
+- 🌱 I’m currently learning Nodejs, express.js, mongoDB and more backend stuff. 
 - 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with React.js 
+- 🤔 I’m looking for help with Nodejs. 
 - 💬 Ask me about Frontend Development 
 - 📫 How to reach me: Canctact me via facebook or any other social media. I'm always available. 
 
