@@ -4,7 +4,7 @@
 
 I am a frontend web developer who enjoys creating usable, maintainable, and scalable user interfaces for platforms on the web. Versatile, adaptable, and dependable. A self-taught developer who has 3 years of experience in JavaScript, specifically Reactjs. I'm always open to learning and taking on new skills and technologies.
 
-Skills: REACTjs / NEXTjs / REDUX / REACTSTRAP / REACT-ROUTER / MATERIAL-UI  / ANT-DESING / FIREBASE / JS / HTML / CSS / SASS / BOOTSTRAP 5 / TAILWIND-CSS
+Skills: JavaScript / TypeScript / REACTjs / NEXTjs / REDUX / REACTSTRAP / REACT-ROUTER / MATERIAL-UI  / ANT-DESING / FIREBASE / HTML / CSS / SASS / BOOTSTRAP 5 / TAILWIND-CSS
 
 - 🔭 I’m currently working on Fiverr and Upwork as Frontend developer
 - 🌱 I’m currently learning Nodejs, express.js, mongoDB and more backend stuff. 
