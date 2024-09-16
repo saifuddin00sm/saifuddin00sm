@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Saif Uddin
 #### I'm a professional Frontend Developer.
-![I'm a professional Frontend Developer.](https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/175714478_2808102006117023_4148429671047368362_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEB9kMyHrYLWdTmSQgFN0xivLKXV_UULpm8spdX9RQumQknuwl53uO9UgFbMy0DpJ1VdQjrlfv37qipyPjgBCfb&_nc_ohc=LB-ckbRjKtYAX896amv&_nc_ht=scontent.fdac24-1.fna&oh=67e19b5049aabbbf51d95b3c8eacbac8&oe=614F08F4)
+
+![cover-thumb](https://github.com/user-attachments/assets/08a952ab-4642-4e13-90d3-63f4238a8886)
 
 I am a frontend web developer who enjoys creating usable, maintainable, and scalable user interfaces for platforms on the web. Versatile, adaptable, and dependable. A self-taught developer who has 3 years of experience in JavaScript, specifically Reactjs. I'm always open to learning and taking on new skills and technologies.
 
